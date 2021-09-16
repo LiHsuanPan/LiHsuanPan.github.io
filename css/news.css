@@ -1,0 +1,26 @@
+body{
+	background-color:#DDDDDD;
+}
+
+.box{
+	background-color:#FFFFFF;
+	width:980px;
+	margin:15px auto;
+	padding:20px;
+	border-radius:20px;
+}
+
+.data{
+	color:#666666;
+	padding:0px 30px;
+}
+
+.content{
+	padding:75px;
+	border:solid 1px #808080;
+	margin-top:20px;
+}
+
+.photo{
+	text-align:center;
+}
